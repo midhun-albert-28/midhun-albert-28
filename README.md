@@ -35,7 +35,7 @@
 ## 📫 Connect with Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/midhun-albert-j-94877b293/)   
 - 🖥️ [GitHub](https://github.com/midhun-albert-28)  
-- 📧 Email: your.email@example.com  
+- 📧 Email: midhunalbert99@gmail.com  
 
 ---
 
