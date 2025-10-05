@@ -1,42 +1,46 @@
-# 👋 Hi, I'm Midhun Albert J  
+👋 Hi, I'm Midhun Albert J
 
-🎓 **B.Tech Computer Science Student** at Manakula Vinayagar Institute of Technology  
-💻 Passionate about **Full Stack Development**, **Java Programming**, and **Electronics Projects**  
-🚀 Constantly learning and building real-world applications  
+🎓 B.Tech Computer Science Student (Pre-Final Year) at Manakula Vinayagar Institute of Technology
+💻 Passionate about Python Full Stack Development, Web Technologies, and IoT-based Innovations
+🤖 Exploring the exciting world of Artificial Intelligence and Machine Learning to build smart, real-world solutions
+🚀 Constantly learning, experimenting, and improving my development skills
 
----
+🛠️ Tech Stack
 
-## 🛠️ Tech Stack  
-- **Languages**: Java, Python, C, HTML, CSS, JavaScript  
-- **Frameworks & Tools**: React, Node.js, Git, GitHub, VS Code  
-- **Databases**: MySQL, MongoDB  
-- **Others**: Arduino, Embedded Systems  
+Languages: Python, Java, C, HTML, CSS, JavaScript
 
----
+Frameworks & Tools: React, Node.js, Flask, Git, GitHub, VS Code
 
-## 📂 Projects  
-- 🔌 **Smart Switch Board** – An IoT-based project to control appliances using Arduino.  
-- 🌦️ **SCIMIT Weather Prediction** – Arduino-based project for weather data monitoring and prediction.  
+Databases: MySQL, MongoDB
 
----
+Others: Arduino, IoT Systems, Embedded Projects
 
-## 📜 Certifications  
-- **SCIMIT Project Expo** – Weather Prediction using Arduino  
+📂 Projects
 
----
+🔌 Smart Switch Board – An IoT-based project to control home appliances using Arduino and sensors.
 
-## 📈 Current Focus  
-- Preparing for **Java-based job roles**  
-- Exploring **Full Stack Development**  
-- Improving **problem-solving skills** through coding challenges  
+🌦️ Weather Prediction System – Arduino-powered project for monitoring and predicting weather conditions.
 
----
+📜 Certifications & Achievements
 
-## 📫 Connect with Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/midhun-albert-j-94877b293/)   
-- 🖥️ [GitHub](https://github.com/midhun-albert-28)  
-- 📧 Email: midhunalbert99@gmail.com  
+🏅 Python Programming Internship at CodSoft
 
----
+🎖️ SCIMIT Project Expo – Presented “Weather Prediction using Arduino”
 
-⭐️ *"Code, Learn, and Build every day."*  
+📈 Current Focus
+
+Advancing in Python Full Stack Development
+
+Exploring AI-powered applications and IoT integration
+
+Building a strong foundation for future industry-ready projects
+
+📫 Connect with Me
+
+💼 LinkedIn
+
+🖥️ GitHub
+
+📧 Email: midhunalbert99@gmail.com
+
+⭐️ “Code, Create, and Evolve — every single day.”
