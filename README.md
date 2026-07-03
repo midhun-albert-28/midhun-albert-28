@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Midhun Albert J
 
 🎓 **B.Tech Computer Science Student (Pre-Final Year)** at Manakula Vinayagar Institute of Technology  
-💻 Passionate about **Python Full Stack Development, Web Technologies, and IoT-based Innovations**  
+💻 Passionate about **Python, Data Analytics and IoT-based Innovations**  
 🤖 Exploring the exciting world of **Artificial Intelligence and Machine Learning** to build smart, real-world solutions  
 🚀 Constantly learning, experimenting, and improving my development skills  
 
@@ -19,12 +19,6 @@
 
 - 🔌 **Smart Switch Board** – An IoT-based project to control home appliances using Arduino and sensors.  
   
----
-
-## 📜 Certifications & Achievements
-
-- 🏅 **Python Programming Internship** at CodSoft   
-
 ---
 
 ## 📈 Current Focus
