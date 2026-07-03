@@ -9,31 +9,27 @@
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python, Java, C, HTML, CSS, JavaScript  
-**Frameworks & Tools:** React, Node.js, Flask, Git, GitHub, VS Code  
-**Databases:** MySQL, MongoDB  
-**Others:** Arduino, IoT Systems, Embedded Projects  
+**Languages:** Python,  
+**Frameworks & Tools:**  Git, GitHub, VS Code  
+**Others:** Arduino 
 
 ---
 
 ## 📂 Projects
 
 - 🔌 **Smart Switch Board** – An IoT-based project to control home appliances using Arduino and sensors.  
-- 🌦️ **Weather Prediction System** – Arduino-powered project for monitoring and predicting weather conditions.
   
 ---
 
 ## 📜 Certifications & Achievements
 
-- 🏅 **Python Programming Internship** at CodSoft  
-- 🎖️ **SCIMIT Project Expo** – Presented “Weather Prediction using Arduino”  
+- 🏅 **Python Programming Internship** at CodSoft   
 
 ---
 
 ## 📈 Current Focus
 
-- Advancing in **Python Full Stack Development**  
-- Exploring **AI-powered applications** and **IoT integration**  
+- Learning in **Python** and **Data Analytics**  
 - Building a strong foundation for **future industry-ready projects**  
 
 ---
